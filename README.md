@@ -36,7 +36,7 @@
 
 ###
 
-<p align="center"> 
+<p align="start"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="border: none;" /> 
   </a> 
