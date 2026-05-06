@@ -37,7 +37,7 @@
 ###
 
 <p align="center">
-  <img height="50" src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,swift,kotlin,figma,git,mysql,postgres,firebase,nodejs&perline=15" />
+  <img height="50" src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,swift,kotlin,figma,git,mysql,postgres,firebase,supabase,nodejs&perline=15" />
 </p>
 
 ###
